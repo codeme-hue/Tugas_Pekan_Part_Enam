@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Friends</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+  <string name="add">Tambahkan teman</string>
+
+</resources>
